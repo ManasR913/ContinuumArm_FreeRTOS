@@ -8,11 +8,19 @@ __pycache__/
 *.elf
 *.bin
 *.map
+
+# Compiled object files
 *.o
 *.d
 
-# OS and Python
+# Arduino-related
+*.hex
+*.eep
+
+# OS-specific
 .DS_Store
 Thumbs.db
+
+# Python environments (if used)
 .venv/
 env/
