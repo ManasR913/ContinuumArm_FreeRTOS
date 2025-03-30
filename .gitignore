@@ -1,0 +1,18 @@
+# PlatformIO folders
+.pio/
+.vscode/
+.pytest_cache/
+__pycache__/
+
+# Build artifacts
+*.elf
+*.bin
+*.map
+*.o
+*.d
+
+# OS and Python
+.DS_Store
+Thumbs.db
+.venv/
+env/
