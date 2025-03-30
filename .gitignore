@@ -1,0 +1,26 @@
+# PlatformIO folders
+.pio/
+.vscode/
+.pytest_cache/
+__pycache__/
+
+# Build artifacts
+*.elf
+*.bin
+*.map
+
+# Compiled object files
+*.o
+*.d
+
+# Arduino-related
+*.hex
+*.eep
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python environments (if used)
+.venv/
+env/
