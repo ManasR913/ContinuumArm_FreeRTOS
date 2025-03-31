@@ -5,6 +5,7 @@
 #define FEEDBACK_LOOP_H
 
 // Define prototypes or shared structs here in the future
+void feedbackLoopTask(void *pvParameters);
 
 #endif // FEEDBACK_LOOP_H
 //
